@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Season8</string>
+
+    <!--E01-->
+    <string name="search_box">https://</string>
+    <!--E01-->
+    <!--E02-->
+    <string name="checkStatus">Check Status</string>
+    <string name="status">Status</string>
+    <!--E02-->
+    <!--E04-->
+    <string name="failed">Failed</string>
+    <!--E04-->
+
+</resources>

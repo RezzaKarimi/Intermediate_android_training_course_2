@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Episode.E06_CustomersData">
+
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="CustomerID"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="CustomerID"
+            android:textSize="18sp"
+            android:id="@+id/CustomerID"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="CustomerName"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="CustomerName"
+            android:textSize="18sp"
+            android:id="@+id/CustomerName"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="ContactName"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="ContactName"
+            android:textSize="18sp"
+            android:id="@+id/ContactName"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="Address"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Address"
+            android:textSize="18sp"
+            android:id="@+id/Address"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="City"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="City"
+            android:textSize="18sp"
+            android:id="@+id/City"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="PostalCode"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="PostalCode"
+            android:textSize="18sp"
+            android:id="@+id/PostalCode"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+    <TableRow android:padding="16dp">
+
+        <TextView
+            android:text="Country"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Country"
+            android:textSize="18sp"
+            android:id="@+id/Country"
+            android:layout_marginLeft="16dp"/>
+    </TableRow>
+
+
+
+
+
+</TableLayout>
